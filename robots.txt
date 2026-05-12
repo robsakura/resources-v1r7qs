@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://robsakura.github.io/resources-v1r7qs/sitemap.xml
